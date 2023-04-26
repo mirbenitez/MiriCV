@@ -108,5 +108,6 @@ body {
     .contenido{
       flex-direction:column;
       gap: 0;
+      padding: 40px;
     }
 }
